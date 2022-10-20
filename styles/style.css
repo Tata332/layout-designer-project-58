@@ -1,0 +1,58 @@
+:root {
+    --white: #fff;
+    --translucent-white: #d7ccc0;
+    --light: #F5F4F0;
+    --primary: #fe8a02;
+    --main-dark: #42413c;
+    --dark: #2a2626;
+    --translucent-dark: #908d8b;
+    --brown: #b09a81;
+    --blue: #1085c5;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(./opensans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Neucha";
+    src: url(./Neucha/Neucha-Regular.ttf);
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    font-family: "Open Sans";
+    font-size: 16px;
+    line-height: 1.6em;
+    color: var(--dark);
+    
+}
+
+h1, h2, h3 {
+    font-family: "Neucha";
+    line-height: 1.2em;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 34px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    
+    max-width: 1110px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
