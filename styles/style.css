@@ -154,3 +154,20 @@ main {
     margin-top: 50px;
 }
 
+.five-distortion {
+    display: flex;
+    background-color: var(--dark);
+}
+
+.indent {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.five-orange {
+    color: var(--primary);
+}
+
+.five-white {
+    color: var(--white);
+}
