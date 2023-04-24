@@ -352,7 +352,7 @@ a:hover .color-orange {
 .text-block-2 {
     display: flex;
     justify-content: space-between;
-    column-gap: 30px;
+    column-gap: 20px;
 }
 
 .left-2 {
