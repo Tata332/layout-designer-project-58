@@ -335,7 +335,7 @@ a:hover .color-orange {
   font-weight: 700;
 }
 
-.сolumn-text {
+.column-text {
   display: flex;
   justify-content: space-between;
   column-gap: 20px;
