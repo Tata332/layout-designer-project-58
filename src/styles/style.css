@@ -219,6 +219,10 @@ section {
     padding-top: 200px;
 }
 
+.p-b-20 {
+    padding-bottom: 20px;
+}
+
 .numbers {
     margin-bottom: 40px;
     font-size: 64px;
