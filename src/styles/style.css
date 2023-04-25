@@ -212,11 +212,15 @@ section {
 }
 
 .p-b-100 {
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .p-t-200 {
     padding-top: 200px;
+}
+
+.p-b-150 {
+    padding-bottom: 150px;
 }
 
 .numbers {
