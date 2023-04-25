@@ -468,7 +468,7 @@ a:hover .color-orange {
   left: 25px;
   width: 20px;
   height: 20px;
-  background: url('../images/send.svg') no-repeat center center/cover;
+  background: url("../images/send.svg") no-repeat center center/cover;
   content: " ";
 }
 
