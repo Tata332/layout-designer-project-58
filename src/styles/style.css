@@ -229,7 +229,7 @@ section {
     margin-bottom: 40px;
     font-size: 64px;
     line-height: 1;
-    color: #42413C;
+    color: #42413c;
 }
 
 .margin {
@@ -429,7 +429,7 @@ a:hover .color-orange {
 }
 
 .color-black {
-    color: #2A2626;
+    color: #2a2626;
 }
 
 .electronic-mail {
@@ -451,7 +451,7 @@ a:hover .color-orange {
     height: 50px;
     width: 423px;
     padding-left: 15px;
-    border: 1px solid #E3E3E3;
+    border: 1px solid #e3e3e3;
 }
 
 .window::placeholder {
