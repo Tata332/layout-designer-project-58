@@ -1,7 +1,7 @@
 :root {
     --white: #fff;
     --translucent-white: #d7ccc0;
-    --light: #F5F4F0;
+    --light: #f5f4f0;
     --primary: #fe8a02;
     --main-dark: #42413c;
     --dark: #2a2626;
@@ -98,7 +98,7 @@ section {
     z-index: -100;
 }
 
-.img-1{
+.img-1 {
     position: absolute;
     top: 55px;
     left: 461px;
@@ -106,14 +106,14 @@ section {
     height: 525px;
 }
 
-.text-block{
+.text-block {
     display: flex;
     justify-content: space-between;
     column-gap: 30px;
     margin-top: 185px;
 }
 
-.button{
+.button {
     padding: 12px 24px;
     margin-top: 40px;
     font-weight: bold;
@@ -160,7 +160,7 @@ section {
 }
 
 
-.left{
+.left {
     flex: 1 1 0px;
 }
 
@@ -315,7 +315,7 @@ a:hover .color-orange {
 .inline {
     display: flex;
     column-gap: 30px;
-} 
+}
 
 .translucent-dark {
     color: var(--translucent-dark);
@@ -352,7 +352,7 @@ a:hover .color-orange {
     padding-bottom: 5px;
     margin: 0;
     margin-bottom: 20px;
-    
+
 }
 
 .text-block-2 {
